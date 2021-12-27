@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, Dahir here.
 
-You can use the [editor on GitHub](https://github.com/44pgp/Ethical-Hacking-Binance-hack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Cyber Security and software engineer based in Yorkshire. I have profound interest in full-stack development, Human-computer interactions, Pen Testing,  and everything in between.
 
 ### Markdown
 
